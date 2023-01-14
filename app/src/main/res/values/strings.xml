@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">智慧城市</string>
+    <string name="splash_title">Splash页</string>
+    <string name="login_title">用户登陆</string>
+    <string name="login_username_hint">请输入用户名</string>
+    <string name="login_password_hint">请输入密码</string>
+    <string name="login_button">登陆</string>
+    <string name="register_button">注册</string>
+    <string name="register_title">用户注册</string>
+    <string name="register_username_title">用户名：</string>
+    <string name="register_username_hint">请输入用户名</string>
+    <string name="register_nickname_title">昵 称：</string>
+    <string name="register_nickname_hint">请出入昵称</string>
+    <string name="register_phone_title">手机号码：</string>
+    <string name="register_phone_hint">请输入你的手机号码</string>
+    <string name="register_password_title">密 码：</string>
+    <string name="register_password_hint">请输入密码</string>
+    <string name="register_sex_title">性 别：</string>
+    <string name="register_sex_man_option">男</string>
+    <string name="register_sex_woman_option">女</string>
+    <string name="search_hint">搜索你想看的新闻</string>
+    <string name="banner_web_view_title">Banner广告详情</string>
+</resources>
